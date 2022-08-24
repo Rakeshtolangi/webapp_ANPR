@@ -1,0 +1,11 @@
+https://www.codegrepper.com/code-examples/python/display+cv2+image+in+jupyter+notebook
+https://pythonguides.com/matplotlib-increase-plot-size/
+
+NORMALIZATION:
+	Normalization is a technique for organizing data in a database. It is important that a database is normalized to minimize redundancy (duplicate data) and to ensure only related data is stored in each table. It also prevents any issues stemming from database modifications such as insertions, deletions, and updates.
+	
+
+Shift + Tab will show you the Docstring (documentation) for the the object you have just typed in a code cell 
+
+https://stackoverflow.com/questions/46113732/modulenotfounderror-no-module-named-sklearn
+

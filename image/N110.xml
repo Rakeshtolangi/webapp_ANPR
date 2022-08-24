@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>N110.jpeg</filename>
+	<path>/home/captain/Desktop/webapp/images/N110.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>586</width>
+		<height>331</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>211</ymin>
+			<xmax>250</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>
